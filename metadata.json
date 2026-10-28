@@ -1,0 +1,11 @@
+{
+  "name": "TikPulse - AI Short Video Platform",
+  "description": "Short video social app with AI editing, kinetic auto-captions, watch parties, and persistent in-video shoppable cart drawer.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
